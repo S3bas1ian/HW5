@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=name\ id
+comment1.target=Professor(java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Professor\r\n
+comment2.params=
+comment2.target=void\ publish_course()
+comment3.params=
+comment3.target=void\ assign_TA()
+comment4.params=
+comment4.target=void\ addNewCourse()
+numComments=5

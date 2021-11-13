@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Exam
+comment1.params=
+comment1.target=Exam()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Exam\r\n
+comment2.params=student
+comment2.target=boolean\ register(Student)
+comment3.params=id\ task\ val
+comment3.target=void\ addQuestion(int,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getRegisteredStudents()
+comment5.params=max
+comment5.target=void\ setMaxValue(int)
+numComments=6

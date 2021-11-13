@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TeachingAssistent
+comment1.params=name\ initCourse
+comment1.target=TeachingAssistent(java.lang.String,\ Course)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ TeachingAssistent\r\n
+comment2.params=
+comment2.target=Course[]\ getCourses()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=course
+comment4.target=void\ extendContract(Course)
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+numComments=6
